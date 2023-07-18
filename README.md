@@ -49,7 +49,7 @@ This is the uppermost layer, which is somewhat abstracted and detached. This is 
   - Mission and Purpose
 
 ### 2. **Global Strategy:**
-The executive layer has to do with long term strategy pertaining to the real world. This has to do with keeping track of the current state of the world and the agent and comparing it to the ideal state (goal state). This is like a CEO.
+The global layer has to do with long term strategy pertaining to the real world. This has to do with keeping track of the current state of the world and the agent and comparing it to the ideal state (goal state). This is like a CEO.
   - Long Term Strategic Thinking
   - Global Context (state of the world)
 
@@ -68,7 +68,7 @@ The executive function layer receives the current strategy, context, and global 
   - Resources
 
 ### 5. **Cognitive Control:**
-The executive function layer issues overall directives and project plans while the cognitive control layer has to do with task selection and task switching. This layer judges which task to take next, when that task is complete, and when it makes sense to switch tasks. This layer includes concepts such as *frustration* and *cognitive damping*. Frustration is a signal that keeps track of the ratio of successes to failures, so that the agent knows when it should try something else. Cognitive damping is basically a process of internal debate.
+While the executive function layer issues overall directives and project plans while the cognitive control layer has to do with task selection and task switching. This layer judges which task to take next, when that task is complete, and when it makes sense to switch tasks. This layer includes concepts such as *frustration* and *cognitive damping*. Frustration is a signal that keeps track of the ratio of successes to failures, so that the agent knows when it should try something else. Cognitive damping is basically a process of internal debate.
   - Task Switching
   - Task Selection
   - Frustration
