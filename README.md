@@ -73,3 +73,8 @@ The executive function layer issues overall directives and project plans while t
   - Task Selection
   - Frustration
   - Cognitive Damping
+
+### 6. **Task Prosecution:**
+While the above cognitive control layer is responsible for choosing and switching between tasks, the task prosecution layer is responsible for performing one task at time. This could be robotic commands, such as moving from one place to another, or it could also be performing coding problems, such as writing or testing code and sending API calls. This layer is responsible for detecting whether or not an individual task was successful or not.
+  - One task at a time
+  - Detect failure or success
