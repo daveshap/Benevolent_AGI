@@ -30,6 +30,10 @@ You can also support me on Patreon: https://www.patreon.com/daveshap
 
 I doubt we'll create a commercially viable product. The primary point here is to *prove that it can be done and is not that difficult*. 
 
+### Updates
+
+- ACE WorldState Microservice POC completed: https://github.com/daveshap/ACE_WorldState 
+
 
 ## References
 
