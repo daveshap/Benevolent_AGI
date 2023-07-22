@@ -22,15 +22,7 @@ In other words, the highest mission, purpose, and duty of the benevolent AGI is 
 
 While the Heuristic Imperatives serve as a set of goals or a mission, it is equally important to protect, uphold, and promote human rights. While a mission, or purpose, is required for agency, that agency must be constrained by some sort of legal or ethical framework. For this, we adopt the UN's (Universal Declaration of Human Rights)[https://www.un.org/en/about-us/universal-declaration-of-human-rights]
 
-## Project Purpose and State
-
-I will be building a team to work on this and possibly seeking grant funding. Please reach out on LinkedIn: https://www.linkedin.com/in/dave-shap-automator/
-
-You can also support me on Patreon: https://www.patreon.com/daveshap
-
-I doubt we'll create a commercially viable product. The primary point here is to *prove that it can be done and is not that difficult*. 
-
-### Updates
+## Updates
 
 - ACE WorldState Microservice POC completed: https://github.com/daveshap/ACE_WorldState 
 
@@ -38,6 +30,11 @@ I doubt we'll create a commercially viable product. The primary point here is to
 ## References
 
 - https://lilianweng.github.io/posts/2023-06-23-agent/#agent-system-overview
+- https://github.com/daveshap/NaturalLanguageCognitiveArchitecture
+- https://github.com/daveshap/BenevolentByDesign
+- https://github.com/daveshap/SymphonyOfThought
+- https://lablab.ai/event/autonomous-gpt-agents-hackathon/cogark/ethos
+- https://github.com/daveshap/ATOM_Framework
 
 # Autonomous Cognitive Entity (ACE) Model
 
