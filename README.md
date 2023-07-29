@@ -24,8 +24,8 @@ While the Heuristic Imperatives serve as a set of goals or a mission, it is equa
 
 ## Updates
 
+- ACE L1 Aspirational Layer experiments completed: https://github.com/daveshap/ACE_L1_Aspiration (2023-07-29)
 - ACE WorldState Microservice POC completed: https://github.com/daveshap/ACE_WorldState 
-
 
 ## References
 
